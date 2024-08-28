@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [En espera](En espera)
 
-- 📫 How to reach me **orocasl@gmail.com**
+- 📫 How to reach me **orocaslalana@gmail.com**
 
 - ⚡ Fun fact **Inmerso en IOT y automatización**
 
