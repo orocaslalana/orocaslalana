@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Orlando Rocas Lalana</h1>
+<h1 align="center">Saludos, Orlando Rocas Lalana</h1>
 <h3 align="center">Electricidad/ Telecomunicaciones/ Electrónica / Arduino/ ESP32/ C++/ C#/ JS/ PHP</h3>
 
 - 🔭 I’m currently working on **ORL&&BTC y ORL&&Grafics**
